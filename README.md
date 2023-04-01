@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=MichalMSlusarski&color=yellow)
+![](https://komarev.com/ghpvc/?username=MichalMSlusarski&color=yellow) (views counter by Anton Komarev)
