@@ -1,6 +1,6 @@
 ### Hi there, I'm Michal 👋
 
-I'm a Unity game developer and a beginner data scientist.
+I'm a Unity game developer and a beginner data scientist. 
 
 <!--
 **MichalMSlusarski/MichalMSlusarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
