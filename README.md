@@ -3,8 +3,8 @@
 I'm a Unity game developer and a beginner data scientist.
 
 <p align="left"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/
+<p align="left"> <a href="https://python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/
  <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="30" height="30"/
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="30" height="30"/
