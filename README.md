@@ -1,7 +1,4 @@
-### Hi there, I'm Michal 👋
-
-I'm a Unity game developer and a beginner data scientist.
-
+### My stack:
 <p align="left"> <a href="https://github.com/MichalMSlusarski"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/
