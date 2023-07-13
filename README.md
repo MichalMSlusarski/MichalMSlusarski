@@ -11,4 +11,3 @@
 
  
 ![](https://komarev.com/ghpvc/?username=MichalMSlusarski&color=yellow) </br>
-<sub><sup>views counter by Anton Komarev</sup></sub>
