@@ -9,5 +9,5 @@
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="gc" width="30" height="30"/>
 
- 
+
 ![](https://komarev.com/ghpvc/?username=MichalMSlusarski&color=yellow) </br>
