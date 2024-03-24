@@ -11,4 +11,4 @@
 
 Games: https://afterlato.itch.io/
    
-![](https://komarev.com/ghpvc/?username=MichalMSlusarski&color=yellow) </br>
+![](https://komarev.com/ghpvc/?username=MichalMSlusarski&color=yellow) </br> 
